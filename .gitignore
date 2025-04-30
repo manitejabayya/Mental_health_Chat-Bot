@@ -3,3 +3,4 @@ best_model.h5
 facial_expression_model.h5
 speech_emotions_model.h5
 speech_emotions.csv
+.gitignore
